@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  height:25%;
+  width: 25%;
+}
+
+.navbar {
+  display: flex;
+}
+.menu-list {
+  display: flex;
+}
+
+.items{
+  margin: 15px;
+}
+
+
+#items {
+  display: flex;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 2px soil transparent;
+    transition: color 0.3s, border-bottom
+}
